@@ -1,0 +1,45 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "first_name": "chaimae",
+      "last_name": "smihrou",
+      "job": "Developer",
+      "email": "chaimae@gmail.com",
+      "phone": "0600000000"
+    },
+    {
+      "id": 2,
+      "first_name": "salma",
+      "last_name": "rami",
+      "job": "Developer ",
+      "email": "salma@gmail.com",
+      "phone": "0600000000"
+    },
+    {
+      "id": 3,
+      "first_name": "sanae",
+      "last_name": "benbiga",
+      "job": "manager",
+      "email": "ahmad@gmail.com",
+      "phone": "0600000000"
+    },
+    {
+      "id": 4,
+      "first_name": "karim",
+      "last_name": "hamdi",
+      "job": "manager",
+      "email": "asmae@gmail.com",
+      "phone": "0600000000"
+    },
+    {
+      "id": 5,
+      "first_name": "Mohamed",
+      "last_name": "arabii",
+      "job": "IT",
+      "email": "mohamed@gmail.com",
+      "phone": "0600000000"
+    }
+
+  ]
+}
